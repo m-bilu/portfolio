@@ -1,3 +1,20 @@
+
+
+## Portfolio Website
+
+Hello! This repository holds the current version of my personal portfolio website.
+
+Version 2.0 coming soon. Goals listed in order of priority ->
+- Updating text with database backend, to remove hard-coded descriptions
+- More interactive cards for each position
+    - Each work card could allow screenshots to appear on-hover, in a stylized way
+- Link to Substack, Soundcloud
+- Three.js for image using low-poly blender model of my background pic
+- Advancements in colour scheme
+- Interactable demos for projects?
+
+
+---------------------------------------------------------------------------------------------
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
