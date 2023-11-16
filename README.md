@@ -11,6 +11,7 @@ Version 2.0 coming soon. Goals listed in order of priority ->
     - Each work card could allow screenshots to appear on-hover, in a stylized way
     - Description + Screenshots + README + Development Functionality for each card, this info shows on-hover
     - Base all these details from one source (either database or from project README?)
+- ANIMATE EVERYTHING!!!
 - Link to Medium, Soundcloud, Schoolwork?
 - Three.js for image using low-poly blender model of my background pic
 - Advancements in colour scheme

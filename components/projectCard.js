@@ -69,7 +69,7 @@ const ProjectCard = () => {
                                         | 10 2023
                                     </div>
                                     <div className='workTitleStyle'>
-                                        | Javascript, Next.JS, HTML, Tailwind CSS, Firebase, Three.js, Node.JS
+                                        | Javascript, Next.JS, HTML, Tailwind CSS, Firebase, Three.js, Vercel
                                     </div> 
                                 </div>
 
