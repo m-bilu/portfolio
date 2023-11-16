@@ -6,12 +6,14 @@ Hello! This repository holds the current Version 1.0 of my personal portfolio we
 
 Version 2.0 coming soon. Goals listed in order of priority ->
 - Updating text with database backend, to remove hard-coded descriptions
+- Divide into 3 pages (blue for DS/ML/AI, brown/maroon for full stack, green + white + dsc-ad-like textures for uni/community roles/awards + punky purple/blue for music)
 - More interactive cards for each position
     - Organize work cards in a vertical timeline, animate each successive card as it fades in (when u scroll enough)
     - Each work card could allow screenshots to appear on-hover, in a stylized way
     - Description + Screenshots + README + Development Functionality for each card, this info shows on-hover
     - Base all these details from one source (either database or from project README?)
 - ANIMATE EVERYTHING!!!
+- SEO
 - Link to Medium, Soundcloud, Schoolwork?
 - Three.js for image using low-poly blender model of my background pic
 - Advancements in colour scheme
