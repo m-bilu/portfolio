@@ -15,9 +15,9 @@ const Picture = () => {
         <div className='flex justify-between'>
 
 
-            <div className='fixed right-0 w-2/5 bg-gray-200'>
+            <div className='fixed right-0 w-2/5 bg-gray-200 '>
                 
-                <Image class="max-w-xl" src={profilePic}/>
+                <Image class="object-cover" src={profilePic}/>
 
             </div>
 
