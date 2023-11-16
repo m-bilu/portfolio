@@ -14,14 +14,17 @@ const Picture = () => {
     return(
         <div className='flex justify-between'>
 
-            <div className='fixed right-0'>
+
+            <div className='fixed right-0 w-2/5 bg-gray-200'>
                 
                 <Image class="max-w-xl" src={profilePic}/>
 
             </div>
 
+            
 
-            <div className='left-0 w-2/3 h-full px-20 bg-gradient-to-r from-white to-skyblue text-black flex justify-between'>
+
+            <div className='left-0 w-3/5 h-full px-20 bg-gradient-to-r from-white to-skyblue text-black flex justify-between'>
 
             {
                 // Below div is so we can avoid w-full and have divs show beneath each other,
@@ -55,6 +58,8 @@ const Picture = () => {
                 
 
             </div>
+
+            
             
 
             
