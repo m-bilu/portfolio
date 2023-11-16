@@ -2,13 +2,16 @@
 
 ## Portfolio Website
 
-Hello! This repository holds the current version of my personal portfolio website.
+Hello! This repository holds the current Version 1.0 of my personal portfolio website.
 
 Version 2.0 coming soon. Goals listed in order of priority ->
 - Updating text with database backend, to remove hard-coded descriptions
 - More interactive cards for each position
+    - Organize work cards in a vertical timeline, animate each successive card as it fades in (when u scroll enough)
     - Each work card could allow screenshots to appear on-hover, in a stylized way
-- Link to Substack, Soundcloud
+    - Description + Screenshots + README + Development Functionality for each card, this info shows on-hover
+    - Base all these details from one source (either database or from project README?)
+- Link to Medium, Soundcloud, Schoolwork?
 - Three.js for image using low-poly blender model of my background pic
 - Advancements in colour scheme
 - Interactable demos for projects?

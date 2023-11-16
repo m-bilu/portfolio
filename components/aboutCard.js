@@ -3,7 +3,7 @@ import React from 'react'
 
 const AboutCard = () => {
     return(
-        <div className='flex px-5 mr-5'>
+        <div className='flex'>
                 
             <div className='px-5 font-quicksand font-bold bg-gradient-to-r from-teal-400 via-cyan-400 to-violet-800 bg-clip-text text-transparent/[.0]'>
                 ABOUT 

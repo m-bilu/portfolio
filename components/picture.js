@@ -4,8 +4,10 @@ import profilePic from '@/public/new_photo.jpg'
 import TitleCard from './titleCard'
 import AboutCard from './aboutCard'
 import WorkCard from './workCard'
+import ProjectCard from './projectCard'
+import AwardsCard from './awardsCard'
 
-//              bg-gradient-to-r from-orange-500 to-orange-950 
+
 
 
 const Picture = () => {
@@ -38,6 +40,14 @@ const Picture = () => {
 
                     <div className='my-60 mr-20'>
                         <WorkCard />
+                    </div>
+
+                    <div className='my-60 mr-20'>
+                        <ProjectCard />
+                    </div>
+
+                    <div className='my-60 mr-20'>
+                        <AwardsCard />
                     </div>
 
                 </div>

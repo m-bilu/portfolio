@@ -7,7 +7,7 @@ const TitleCard = () => {
 
         <div className='text-black text-[100px]'>
                 
-            <div className='font-quicksand font-semibold bg-gradient-to-r  from-teal-200 via-cyan-400 to-violet-800 bg-clip-text text-transparent/[.0]'>
+            <div className='font-quicksand font-semibold bg-gradient-to-r from-teal-200 via-cyan-400 to-violet-800 bg-clip-text text-transparent/[.0]'>
                 Bilal Khan
             </div>
 

@@ -33,5 +33,5 @@ body {
 /* Custom Tailwind CSS Classes to save time:                  */
 
 .workTitleStyle {
-  @apply bg-gradient-to-r from-teal-300 to-sky-400 bg-clip-text text-transparent px-5 mx-3 font-quicksand font-semibold;
+  @apply bg-gradient-to-r from-teal-600 via-cyan-400 to-violet-600 text-transparent bg-clip-text px-5 font-quicksand font-semibold;
 }
