@@ -30,7 +30,7 @@ const AboutCard = () => {
                 <div className='pt-5 flex'>
 
 
-                    <Link href='https://drive.google.com/file/d/1buZOdPyuYMJJJ6hrV9-d6K6mFSIGDyox/view?usp=sharing'>                    
+                    <Link href='https://drive.google.com/file/d/1zVyBd0gpEaYDUmAEEI-T0IFEli4jUHk0/view?usp=drive_link'>                    
                     
                         <div className='bg-gradient-to-r from-teal-200 to-cyan-400 px-5 mx-3 text-white'>
                             Resume
